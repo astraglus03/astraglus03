@@ -1,5 +1,6 @@
 ### Hello, everyone!! Thanks for coming!
 
+[![Solved.ac profile](http://mazassumnida.wtf/api/generate_badge?boj=kgd0250)](https://solved.ac/kgd0250)
 <!--
 **astraglus03/astraglus03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
