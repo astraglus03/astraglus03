@@ -1,6 +1,6 @@
 ### Hello, everyone!! Thanks for coming!
 
-![astraglus03's GitHub stats](https://github-readme-stats.vercel.app/api?username=kim-keondong&show_icons=true&theme=radical)
+![astraglus03's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimkeondong&show_icons=true&theme=radical)
 [![Solved.ac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kgd0250)](https://solved.ac/kgd0250)
 <!--
 **astraglus03/astraglus03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
