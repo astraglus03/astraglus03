@@ -3,7 +3,7 @@
 <h2 align="center">👋 Hello, I'm astraglus03</h2>
 
 <p align="center">
-사용자 관점으로 분석하고 구현하는걸 좋아하는 개발자입니다.
+사용자 관점으로 분석하고 구현하는걸 좋아하는 개발자입니다. 
 </p>
 
 
